@@ -13,7 +13,7 @@
  */
 
 // ===== CẤU HÌNH =====
-const SPREADSHEET_ID = 'PASTE_YOUR_SPREADSHEET_ID_HERE'; // <-- Thay bằng ID Google Sheet của bạn
+const SPREADSHEET_ID = '1DKLt7Q2DOMGnXuVmTBWtqKFa6Q1Itd9oVZC5ADlSJwQ'; // <-- Thay bằng ID Google Sheet của bạn
 const SHEET_HK1 = 'Hoc ki 1';
 const SHEET_HK2 = 'Hoc ki 2';
 const SHEET_CN  = 'Ca nam';
